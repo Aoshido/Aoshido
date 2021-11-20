@@ -5,12 +5,33 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+**Languages:**
+
+
+![php](https://img.shields.io/badge/-php-grey?style=flat-square&logo=php&logoColor=white)
+![symfony](https://img.shields.io/badge/-symfony-green?style=flat-square&logo=symfony&logoColor=white)
+
+**Version Control:**
+
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+**Databases:**
+
+
+![SQL](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=sql)
+![MySQL](https://img.shields.io/badge/-MySQL-darkblue?style=flat-square&logo=mysql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=ffffff)
+![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-yellow?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+
+**SDLC**
+
+
+![Agile](https://img.shields.io/badge/Agile-blue?style=flat-square&logo=Agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-green?style=flat-square&logo=Scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-red?style=flat-square&logo=Kanban&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 <br />
 <br />
