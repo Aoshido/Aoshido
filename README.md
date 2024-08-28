@@ -1,6 +1,6 @@
 ### Hi there, I'm [Aoshido][website] 👋 
 
-- 🥅 2021 Goals: Contribute more
+- 🥅 2025 Goals: Contribute more
 - ⚡ Fun fact: I love to  rollerskate
 
 ### Languages and Tools:
